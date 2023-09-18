@@ -1,3 +1,4 @@
+import time
 import re
 import socket
 import telnetlib
